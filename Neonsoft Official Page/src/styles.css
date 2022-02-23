@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap");
+* {
+  color: #fff;
+  margin: 0;
+}
+
+.banner {
+  font-family: 'Roboto Condensed';
+  font-size: 1.25rem;
+  text-align: center;
+  background-color: #3299ff;
+  width: 100%;
+  height: 150px;
+  padding-top: 45px;
+}
+
+.banner .banner-content {
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+/*# sourceMappingURL=styles.css.map */
